@@ -4,8 +4,9 @@
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
-
-Projeto desenvolvido na semana NLW-SETUP da [Rocketseat 🚀](https://www.rocketseat.com.br) de 16 a 22/01/2023.
+<p align="center">
+Projeto desenvolvido na semana NLW-SETUP da <a href="https://www.rocketseat.com.br">Rocketseat 🚀</a> de 16 a 22/01/2023.
+</p>
 <br>
 
 <p align="center">
